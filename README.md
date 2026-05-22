@@ -24,7 +24,7 @@ This repo is intentionally broader than one project. Likely areas:
 
 ## Next steps
 
-The concrete to-do list lives in [TODO.md](TODO.md). The near-term path:
+The concrete to-do list lives in [docs/TODO.md](docs/TODO.md). The near-term path:
 
 1. **Audit the existing feed** — download from Transitland, run it through Google's `gtfs-validator`, check freshness and accuracy.
 2. **Identify the feed owner** — figure out who actually publishes the UVA Transit GTFS feed and who at UVA Parking & Transportation owns the relationship.

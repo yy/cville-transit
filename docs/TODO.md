@@ -14,6 +14,7 @@ Concrete next steps. Check items off as they're done; add issues for anything th
 
 - [ ] Find who publishes the feed listed on Transitland (UVA Parking & Transportation directly? TransLoc/Passio? a student?)
 - [ ] Find the right contact at UVA Parking & Transportation for transit data
+- [ ] Reach out to [Ethan Heil](https://sustainability.virginia.edu/people/ethan-heil) — Manager of Sustainable Buildings at UVA Office for Sustainability, director of the Decarbonization Academy. Likely knows who to talk to on the UVA side, and the framing (mode shift, carbon) fits the Office's mission
 - [ ] Find the equivalent contact for the City of Charlottesville / CAT (they already did the Google integration — ask how)
 
 ## 3. Investigate ingestion status

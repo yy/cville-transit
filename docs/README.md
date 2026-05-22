@@ -10,3 +10,4 @@ Open this folder as a vault in Obsidian, or browse on GitHub. Pages use `[[wikil
 - [[GTFS]] — what it is, what the major map apps require
 - [[Agencies]] — UVA Transit, CAT, and others
 - [[Open questions]] — things we don't know yet
+- [[TODO]] — concrete next steps
