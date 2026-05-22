@@ -22,6 +22,17 @@ This repo is intentionally broader than one project. Likely areas:
 - **GTFS feed quality** — auditing existing feeds, proposing fixes.
 - **Side projects** — a standalone website, schedule viewer, or real-time map if useful.
 
+## Next steps
+
+The concrete to-do list lives in [TODO.md](TODO.md). The near-term path:
+
+1. **Audit the existing feed** — download from Transitland, run it through Google's `gtfs-validator`, check freshness and accuracy.
+2. **Identify the feed owner** — figure out who actually publishes the UVA Transit GTFS feed and who at UVA Parking & Transportation owns the relationship.
+3. **Investigate ingestion status** — has UVA ever applied to Google Transit Partners or Apple Maps Connect? If so, what happened?
+4. **Write up findings** — short one-pager on feed quality, ingestion status, and what the actual blocker is.
+
+Anything beyond that (a standalone web map, a unified CAT + UVA trip planner, a public write-up) waits until those four are answered. See [docs/Open questions.md](docs/Open%20questions.md) for the longer list of unknowns.
+
 ## Structure
 
 - `docs/` — Obsidian-compatible wiki. Notes on GTFS, the feed, agencies, ingestion requirements, contacts, and prior art.
