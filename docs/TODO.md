@@ -12,9 +12,11 @@ Concrete next steps. Check items off as they're done; add issues for anything th
 
 ## 2. Identify the feed owner
 
-- [ ] Find who publishes the feed listed on Transitland (UVA Parking & Transportation directly? TransLoc/Passio? a student?)
-- [ ] Find the right contact at UVA Parking & Transportation for transit data
-- [ ] Reach out to [Ethan Heil](https://sustainability.virginia.edu/people/ethan-heil) — Manager of Sustainable Buildings at UVA Office for Sustainability, director of the Decarbonization Academy. Likely knows who to talk to on the UVA side, and the framing (mode shift, carbon) fits the Office's mission
+- [x] Identify the technical publisher: [Transitland's current static GTFS URL](https://www.transit.land/feeds/f-university~of~virginia) is hosted on UVA's TransLoc tenant, and [TransLoc describes UVA as a customer since 2013](https://transloc.com/case-studies/university-of-virginia-uva/)
+- [ ] Confirm who at UVA owns the TransLoc account, GTFS configuration, and Google/Apple submission decisions
+- [x] Identify the relevant UVA contacts: [Allison Day](https://parking.virginia.edu/people/allison-day), General Manager, UTS (`and4ne@virginia.edu`), and [Kendall Howell](https://parking.virginia.edu/people/kendall-howell), Assistant Director - Transportation (`klh3t@virginia.edu`)
+- [ ] Follow up with Allison Day; Kendall Howell was contacted but has not responded
+- [ ] If the direct UTS contacts stall, reach out to [Ethan Heil](https://sustainability.virginia.edu/people/ethan-heil) — Manager of Sustainable Buildings at UVA Office for Sustainability and director of the Decarbonization Academy
 - [ ] Find the equivalent contact for the City of Charlottesville / CAT (they already did the Google integration — ask how)
 
 ## 3. Investigate ingestion status
